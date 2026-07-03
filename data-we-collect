@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data We Collect — Shrinathji Nitya Niyam Path</title>
+<meta name="description" content="A plain breakdown of the data collected by the Shrinathji Nitya Niyam Path app.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <div class="brand">
+      <span class="mark">श्री</span>
+      <span class="brand-name">Shrinathji Nitya Niyam Path
+        <span class="sub">Pushti Marg Devotional App</span>
+      </span>
+    </div>
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="data-we-collect.html" class="current">Data We Collect</a>
+      <a href="terms-of-use.html">Terms of Use</a>
+      <a href="privacy-policy.html">Privacy Policy</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="eyebrow">Legal</p>
+    <h1>Data We Collect</h1>
+    <p class="lede">Data We Collect and How We Use It</p>
+
+    <p>While we do not collect Personally Identifiable Information (PII) like your name or phone number, certain non-personal and automated data is collected to ensure the app functions correctly and remains free:</p>
+
+    <div class="card">
+      <h3>Advertising &amp; Analytics Data</h3>
+      <p>Through our third-party partner (Google AdMob), we collect non-personal device information. This includes your device's Internet Protocol (IP) address, operating system version, device type, crash reports, and Advertising Identifiers (such as Apple IDFA or Android AAID). This data is used strictly to serve relevant advertisements and analyze app performance.</p>
+    </div>
+
+    <div class="card">
+      <h3>Anonymous App Usage Data (Global Sync)</h3>
+      <p>When you use the "Digital Mala" feature, an anonymous, untraceable '+1' network request is sent to our Firebase database to update the "Global Maha-Mala" community counter. This data cannot be linked back to you or your device.</p>
+    </div>
+
+    <div class="card">
+      <h3>Communication Data</h3>
+      <p>If you choose to contact us via the "Support," "Report," or "Send Path" email buttons within the app, your email client will open. If you send an email to our support address, we will securely receive your email address and any content you voluntarily share, which will be used exclusively to address your specific request.</p>
+    </div>
+
+    <p style="margin-top:30px;">For anything not covered here, see our <a href="privacy-policy.html">Privacy Policy</a>.</p>
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© 2026 Shrinathji Nitya Niyam Path</span>
+    <nav>
+      <a href="privacy-policy.html">Privacy Policy</a>
+      <a href="data-we-collect.html">Data We Collect</a>
+      <a href="terms-of-use.html">Terms of Use</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>
